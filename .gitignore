@@ -398,3 +398,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/VelopackVersionUpdate/WpfApp1/releases/assets.win.json
+/VelopackVersionUpdate/WpfApp1/releases/RELEASES
+/VelopackVersionUpdate/WpfApp1/releases/releases.win.json
+/VelopackVersionUpdate/WpfApp1/releases/WpfApp1-1.0.0-full.nupkg
+/VelopackVersionUpdate/WpfApp1/releases/WpfApp1-win-Portable.zip
+/VelopackVersionUpdate/WpfApp1/releases/WpfApp1-win-Setup.exe
